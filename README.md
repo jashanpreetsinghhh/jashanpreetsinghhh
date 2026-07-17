@@ -30,8 +30,7 @@ I'm a frontend developer currently learning Python by building practical project
 ## Current Focus
 
 - Python Development
-- Data Structures & Algorithms
-- Automation & CLI Tools
+- Data Structures & Algorithms<!-- - Automation & CLI Tools -->
 - Open Source
 
 ---
@@ -39,6 +38,6 @@ I'm a frontend developer currently learning Python by building practical project
 ## Connect
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://linkedin.com/in/jashanpreetsinghhh">LinkedIn</a> •
+<a href="mailto:jashanpreetsinghramghariaa@gmail.com">Email</a>
 </p>
